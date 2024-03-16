@@ -1,0 +1,19 @@
+{
+  "name": "good-practice-rest-arqui",
+  "version": "1.0.0",
+  "description": "good practices for api rest arquitecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start-dev": "node --watch --trace-warnings src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "joi": "^17.12.2",
+    "npmlog": "^7.0.1",
+    "uuid": "^9.0.1"
+  }
+}

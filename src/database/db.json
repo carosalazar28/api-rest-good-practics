@@ -1,0 +1,124 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "El destructor de bíceps",
+      "mode": "Cardio",
+      "equipment": [
+        "Barra de pesas",
+        "Mancuernas"
+      ],
+      "exercises": [
+        "Remo con barra",
+        "Remo con mancuernas"
+      ],
+      "createdAt": "2023-11-14T15:23:54.321Z",
+      "updatedAt": "2023-11-14T15:23:54.321Z",
+      "trainerTips": [
+        "No olvides calentar antes de empezar.",
+        "Mantén la espalda recta durante el ejercicio.",
+        "Concéntrate en trabajar los bíceps."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Piernas de acero",
+      "mode": "Fuerza",
+      "equipment": [
+        "Mancuernas",
+        "Balón suizo"
+      ],
+      "exercises": [
+        "Sentadillas con mancuernas",
+        "Elevaciones de talones con balón suizo"
+      ],
+      "createdAt": "2023-11-14T15:23:54.321Z",
+      "updatedAt": "2023-11-14T15:23:54.321Z",
+      "trainerTips": [
+        "Realiza el movimiento con control y sin prisas.",
+        "Evita que tus rodillas se doblen hacia adentro.",
+        "Respira profundamente durante cada repetición."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cardio extremo",
+      "mode": "Cardio",
+      "equipment": [
+        "Cinta de correr",
+        "Bicicleta estática"
+      ],
+      "exercises": [
+        "Carrera a ritmo elevado",
+        "Sprint en bicicleta estática"
+      ],
+      "createdAt": "2023-11-14T15:23:54.321Z",
+      "updatedAt": "2023-11-14T15:23:54.321Z",
+      "trainerTips": [
+        "Hidrátate bien durante el ejercicio.",
+        "Mantén un ritmo constante durante la carrera.",
+        "Si te sientes mareado, detente y descansa."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Yoga relajante",
+      "mode": "Flexibilidad",
+      "equipment": [
+        "Esterilla de yoga",
+        "Bloque de yoga"
+      ],
+      "exercises": [
+        "Saludo al sol",
+        "Postura del perro boca abajo con bloque"
+      ],
+      "createdAt": "2023-11-14T15:23:54.321Z",
+      "updatedAt": "2023-11-14T15:23:54.321Z",
+      "trainerTips": [
+        "Concéntrate en tu respiración durante cada postura.",
+        "No te fuerces si sientes dolor.",
+        "Escucha a tu cuerpo y descansa cuando lo necesites."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Full Body Express",
+      "mode": "Circuito",
+      "equipment": [
+        "Pesas rusas",
+        "Cuerda de saltar"
+      ],
+      "exercises": [
+        "Swing con pesa rusa",
+        "Saltos con cuerda"
+      ],
+      "createdAt": "2023-11-14T15:23:54.321Z",
+      "updatedAt": "2023-11-14T15:23:54.321Z",
+      "trainerTips": [
+        "Mantén la espalda recta durante el ejercicio.",
+        "Concéntrate en trabajar todo el cuerpo.",
+        "Realiza el movimiento con control y sin prisas."
+      ]
+    },
+    {
+      "name": "El destructor de piernas",
+      "mode": "Fuerza",
+      "equipment": [
+        "Barra de pesas",
+        "Mancuernas"
+      ],
+      "exercises": [
+        "Remo con barra",
+        "Remo con mancuernas"
+      ],
+      "trainerTips": [
+        "No olvides calentar antes de empezar.",
+        "Mantén la espalda recta durante el ejercicio.",
+        "Concéntrate en trabajar los bíceps."
+      ],
+      "id": "d1eaf271-be2b-4914-bdbe-d0d15226740e",
+      "createdAt": "3/16/2024",
+      "updateAt": "3/16/2024"
+    }
+  ]
+}
